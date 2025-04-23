@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: default/tommy-react-test
     
 
-    dependencytrack/project-id: ""
+    dependencytrack/project-id: "7b7b6fbe-390a-4219-9cf3-e2ea520580eb"
     cloud-service/app-info: "1/c28b08b4-e55a-49c9-b7dd-8d804a8bd20f"
     backstage.io/techdocs-ref: dir:.
 
