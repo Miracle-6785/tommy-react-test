@@ -1,0 +1,6 @@
+site_name: miracle-documentation
+site_description: This is my documentation site
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md

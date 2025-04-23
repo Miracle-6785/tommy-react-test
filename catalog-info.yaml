@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tommy-react-test"
+  description: "A component that is part of the DevSecOps catalog"
+  annotations:
+    
+    jenkins.io/job-full-name: tommy-react-test-org/tommy-react-test-job
+    
+
+    
+    sonarqube.org/project-key: default/tommy-react-test
+    
+
+    dependencytrack/project-id: ""
+    cloud-service/app-info: ""
+    backstage.io/techdocs-ref: dir:.
+
+spec:
+  type: service
+  owner: user:platform-admin
+  lifecycle: experimental
